@@ -1,0 +1,10 @@
+{
+  "name": "Karuvarakundu GIS & Survey Maps",
+  "description": "Interactive GIS boundary and cadastral survey line mapping viewer for Karuvarakundu Grama Panchayat with field GPS tracking, layer management, and search.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
